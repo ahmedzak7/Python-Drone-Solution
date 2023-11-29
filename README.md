@@ -104,5 +104,7 @@ API Endpoints
 
 Example Usage
 -------------
+![Screenshot](Screenshot%202023-11-29%20at%203.26.08%20PM.png)
+
 ![postman](Screenshot%2023-11-29%at%3.26.08%PM.png)
 
